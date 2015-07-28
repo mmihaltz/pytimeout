@@ -1,3 +1,11 @@
+"""
+Python module to enable timeout on python code.
+
+Based on http://stackoverflow.com/questions/8464391/what-should-i-do-if-socket-setdefaulttimeout-is-not-working
+
+Márton Miháltz mmihaltz@gmail.com
+"""
+
 import signal
 import subprocess
 
