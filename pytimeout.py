@@ -1,3 +1,5 @@
+# encoding: UTF-8
+
 """
 Python module to enable timeout on python code.
 
